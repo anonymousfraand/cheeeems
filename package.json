@@ -1,0 +1,22 @@
+{
+  "name": "cheeeems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonymousfraand/cheeeems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anonymousfraand/cheeeems/issues"
+  },
+  "homepage": "https://github.com/anonymousfraand/cheeeems#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}

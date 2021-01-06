@@ -1,2 +1,3 @@
 # cheeeems🐶
-A Discord DJ(Dog)!!
+A Discord Bot Bro!
+
